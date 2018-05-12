@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1744
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32062#The-Daltons--Or-Three-Roads-In-Life.-Volume-II--of-II-
 gutenberg_issued: '2010-04-19'
 gutenberg_type: Text
 identifiers:
